@@ -6,6 +6,6 @@ Neste Projeto estou desenvolvendo um site no estilo de portfolio virtual para o 
 Se caso houver a vontade de contribuir com esse projeto sinta-se a vontade para baixar esse modelo e trabalhar nisso.
 
 Vale ressaltar, caso baixe deverá executar o seguinte comando na pasta do projeto:
-  npm -i 
+  npm install 
   
  Executando este comando conseguira executar o projeto perfeitamente.
