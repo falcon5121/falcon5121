@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "./",
+  "homepage": "PARAIBRASS-PORTFOLIO/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
