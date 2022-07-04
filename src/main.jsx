@@ -11,7 +11,7 @@ import menu from "./Menu/Menu"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />,
+    <App />
      <div> {/* Classe de organização dos cards */}
      
      <Carousel className="container1"/>
