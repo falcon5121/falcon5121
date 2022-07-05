@@ -2,6 +2,7 @@ import React from "react";
 import SearchIcon from '@mui/icons-material/Search';
 import Menu from "./Menu/Menu"
 
+
 export default function () {
     return (
     <div className="vetor">
