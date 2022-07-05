@@ -19,9 +19,9 @@ export default function () {
                     <li><Menu/></li>
                 </ul>
              </nav>
-            <img src="./src/imagens/Portfolio Paraibrass.svg" alt="" className="img"/>
+            <img src="/src/imagens/Portfolio Paraibrass.svg" alt="" className="img"/>
             <section className="container">
-            <img src="./src/imagens/Foto e Texto.svg" alt="Foto do Sexteto Paraibrass" className="Sexteto"/>
+            <img src="/src/imagens/Foto e Texto.svg" alt="Foto do Sexteto Paraibrass" className="Sexteto"/>
             </section>
     </div>
     )
